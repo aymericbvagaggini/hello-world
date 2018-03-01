@@ -1,4 +1,4 @@
 # hello-world
 Just an other repository
 
-Hello my name is Aymeric 
+Hello my name is Aymeric or Aymerico
